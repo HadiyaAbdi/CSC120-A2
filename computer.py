@@ -21,7 +21,7 @@ class Computer:
     operating_system,
     year_made,
     price):
-            self.description = str
+            self.description = description
             self.processor_type = processor_type
             self.hard_drive_capacity = hard_drive_capacity
             self.memory = memory
