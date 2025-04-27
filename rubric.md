@@ -11,7 +11,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 __Yes_ 1 pt: All expected attributes for `Computer` class are present
 
-__Part__ 1 pt: All expected methods for `Computer` class are present
+__Yes__ 1 pt: All expected methods for `Computer` class are present
 
 __Yes__ 1 pt: Constructor for `Computer` class is present and sets attributes correctly
 
@@ -19,7 +19,7 @@ __Yes__ 1 pt: Constructor for `Computer` class is present and sets attributes co
 
 __Yes_ 1 pt: All expected attributes for `ResaleShop` class are present
 
-__Part__ 1 pt: All expected methods for `ResaleShop` class are present
+__Yes__ 1 pt: All expected methods for `ResaleShop` class are present
 
 __Yes__ 1 pt: Constructor for `ResaleShop` class is present and sets attributes correctly
 
@@ -31,13 +31,13 @@ __Yes__ 1 pt: Can successfully remove a `Computer` from the inventory
 
 __Yes__ 1 pt: Can successfully update the price/OS of a `Computer` contained in the inventory
 
-__Part__ 1 pt: Program prints appropriate error messages
+__Yes__ 1 pt: Program prints appropriate error messages
 
 ## General Items (10 pts):
 
-__Part___ 4 pts: Program executes fully & consistently without crashing (exception/freeze)
+__Yes___ 4 pts: Program executes fully & consistently without crashing (exception/freeze)
 
-___Part__ 1 pt: Classes & class members all have header comments
+___Yes__ 1 pt: Classes & class members all have header comments
 
 ___Yes__ 1 pt: Clear and consistent indentation
 
@@ -48,3 +48,4 @@ ___Yes__ 1 pt: Methods and variables all have clear and descriptive names
 ___Yes__ 1 pt: All required files included with submission (including completed checklist file)
 
 ___Yes__ 1 pt: `reflection.md` contains your reflection on the assignment
+
